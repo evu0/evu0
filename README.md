@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/iimyha" target="blank"><img src="https://img.shields.io/twitter/follow/iimyha?logo=twitter&style=for-the-badge" alt="iimyha" /></a> </p>
 
-- 🔭 I’m currently working on [SCFHS Calculator](scfhs-calculator.com)
+- 🔭 I’m currently working on [SCFHS Calculator] (https://scfhs-calculator.com)
 
-- 👨‍💻 All of my projects are available at [mohasportfolio.netlify.app](mohasportfolio.netlify.app)
+- 👨‍💻 All of my projects are available at [mohasportfolio.netlify.app] (https://mohasportfolio.netlify.app)
 
 - 📫 How to reach me **iimoha46@gmail.com**
 
