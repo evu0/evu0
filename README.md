@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on [SCFHS Calculator](https://scfhs-calculator.com)
 
-- 👨‍💻 All of my projects are available at [mohasportfolio.netlify.app](https://mohasportfolio.netlify.app)
-
 - 📫 How to reach me **iimoha46@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
