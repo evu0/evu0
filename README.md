@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohammad Alhamoud</h1>
+<h1 align="center">Hi 👋, I'm Mohammad Al Hamoud</h1>
 <h3 align="center">A full-time medical student, part-time full stack web developer</h3>
 
 <p align="left"> <a href="https://twitter.com/iimyha" target="blank"><img src="https://img.shields.io/twitter/follow/iimyha?logo=twitter&style=for-the-badge" alt="iimyha" /></a> </p>
