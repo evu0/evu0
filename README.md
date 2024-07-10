@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad Al Hamoud</h1>
 <h3 align="center">A full-time preventive medicine resident, part-time web developer</h3>
 
-<p align="left"> <a href="https://twitter.com/iimyha" target="blank"><img src="https://img.shields.io/twitter/follow/iimyha?logo=twitter&style=for-the-badge" alt="iimyha" /></a> </p>
+<p align="left"> <a href="https://twitter.com/MHAlHamoud" target="blank"><img src="https://img.shields.io/twitter/follow/MHAlHamoud?logo=twitter&style=for-the-badge" alt="MHAlHamoud" /></a> </p>
 
 - 🔭 I’m currently working on [SCFHS Calculator](https://scfhs-calculator.com)
 
